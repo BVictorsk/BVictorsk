@@ -12,7 +12,6 @@
 <br>
 
 - 🌱 I’m currently learning JavaScript, ReactJS, Node & Typescript
-- 🤔 I’m looking for help with ReactJS, Node & Typescript
 - 📫 How to reach me: brian_saka@hotmail.com / +55 11 930011359
   
 
