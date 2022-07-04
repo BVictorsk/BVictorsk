@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BVictorsk&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BVictorsk&show_icons=true&theme=highcontrast&include_all_commits=false"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVictorsk&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
